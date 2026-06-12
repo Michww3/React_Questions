@@ -13,10 +13,10 @@
 | 9 | [Что такое ключи (Keys) в списках React-элементов и зачем они нужны?](#что-такое-ключи-keys-в-списках-react-элементов-и-зачем-они-нужны) |
 | 10 | [Что такое фрагменты (Fragments) в React?](#что-такое-фрагменты-fragments-в-react) |
 | 11 | [Как использовать React DevTools для отладки приложения?](#как-использовать-react-devtools-для-отладки-приложения) |
-| 12 | [Как создать собственный хук (Custom Hook) в React?](#как-создать-собственный-хук-custom-hook-в-react) |
-| 13 | [Что такое Middleware в Redux? Thunk и Saga](#что-такое-middleware-в-redux-thunk-и-saga) |
+| 12 | [Как создать собственный хук (Custom Hook) в React?](#как-создать-собственный-хук-в-react) |
+| 13 | [Что такое Middleware в Redux? Thunk и Saga](#middleware-thunk-saga) |
 | 14 | [Что такое Redux и зачем он нужен?](#redux) |
-| 15 | [Redux Saga: Actions, Reducers и принцип работы](#) |
+| 15 | [Redux Saga: Actions, Reducers и принцип работы](#saga--actions--reducer) |
 | 16 | [Что такое MobX и как он работает?](#mobx) |
 | 17 | [TypeScript в React (TS + React)](#typescript-ts) |
 
